@@ -1,0 +1,9 @@
+{
+    "dashboard": "Dashboard",
+    "users": {
+        "title": "Users",
+        "management": "User Management",
+        "add": "Add User",
+        "roles": "Role & Permissions"
+    }
+}

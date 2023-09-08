@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig.json",
+  "extends": "@vue/tsconfig/tsconfig.web.json",
+  "include": ["env.d.ts", "src/**/*", "src/**/*.vue", "src/lang/**/*.json"],
+  "exclude": ["src/**/__tests__/*"],
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ESNext",
+    "moduleResolution": "Node",
+    "composite": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*", "./src/**/*.vue"],
+      "@assets": ["./src/assets"],
+      "@components": ["./src/components"],
+      "@interfaces": ["./src/interfaces"],
+      "@plugins": ["./src/plugins"],
+      "@store": ["./src/store"],
+      "@styles": ["./src/plugins"],
+      "@views": ["./src/views"],
+      "@services": ["./src/services"],
+      "@lang": ["./src/lang"]
+    },
+    "types": ["node", "vuetify"]
+  }
+}

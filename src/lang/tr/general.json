@@ -1,0 +1,14 @@
+{
+    "heads": {
+        "unit": "Units"
+    },
+    "save": "Save",
+    "close": "Close",
+    "agree": "Agree",
+    "disagree": "DISAGREE",
+    "null": "",
+    "notSaveChanges": "You did not save your changes!",
+    "notSaveChangesText": "You did not save your changes",
+    "editor": "Editor",
+    "preview": "Preview"
+}

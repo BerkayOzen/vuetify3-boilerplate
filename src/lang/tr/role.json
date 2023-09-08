@@ -1,0 +1,7 @@
+{
+    "title": "Roles",
+    "name": "Role Name",
+    "description": "Role Description",
+    "create": "Create Role",
+    "permissions": "Permissions"
+}

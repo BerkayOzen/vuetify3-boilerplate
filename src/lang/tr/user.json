@@ -1,0 +1,14 @@
+{
+    "username": "Username",
+    "email": "E-Mail",
+    "actions": "Actions",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "birthday": "Birthday",
+    "gender": "Gender",
+    "password": "Password",
+    "createUser": "Create User",
+    "editUser": "Edit User",
+    "save": "Save",
+    "cancel": "Cancel"
+}
